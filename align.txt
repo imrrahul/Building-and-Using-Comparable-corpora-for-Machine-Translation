@@ -1,0 +1,515 @@
+<p>	<p>	0
+john steinbeck	john steinbeck	2.3
+egy marék arany		-0.3
+fordít : ungvári tamás		-0.3
+tartalom	( c ) 1929	0.2625
+egy fejezet		-0.3
+kettõ fejezet		-0.3
+három fejezet		-0.3
+négy fejezet		-0.3
+öt fejezet		-0.3
+egy fejezet	1 1 chapter i	0.3
+1	1 1 1 i	16.35
+<p>		0
+az éjfekete walesi szurdok délután megindult a szél ; hirdet hogy a világ tél közelít a sarkvidék ~~~ a folyó már csendes moraj zajlik a jég	all afternoon the wind sift out of the black welsh glen crying notice that winter be come sliding down over the world from the pole ; and riverward there be the faint moan of new ice	0.879268
+szomorú szürke nap volt ez a nyugtalanság elégedetlenség	he be a sad day a day of grey unrest of discontent	1.55833
+a szellõ finom fuvallat lágy s gyengéd elégia mintha valami vidám dolog búcsúztat	the gently moving air seem to be celebrate the loss of some gay thing with a soft tender elegy	1.34143
+de a mezõ ideges toporzékol a testes igásló s az apró barnás madár vidékszerte négyes-ötös raj repdes egyik fa a másik majd újra vissza : újonc hív - toboroz déli vándorút	but in the pasture great work horse nervously stamp he foot and all through the country small brown bird in clique of four or five fly twitter from tree to tree and back again seek and calling in recruit for he southing	1.10418
+a magányos s kiugró szikla csúcs néhány kecske kaptat fel : sárga szem hosszasan kémlel a magasság s a felhõ szaglász	a few goat clamber to the tops of high lone rock and long stare upward with he yellow eyes and sniff the heaven	1.09152
+<p>	<p>	0
+a délután egy processzió lassúság közeleg mely az este rekeszt be az est sarok pedig a nyugtalan szél rohamoz zörög tõle a száraz fû amint jajong száll a föld	the afternoon pass slowly procession-like with an end of evening and on the heel of the evening an excited wind rush out rustle in the dry grass and flee whimpering across the field	1.16558
+az éjszaka fekete csuklya borított a táj : tél õszentsége elküld követ walesbe	night draw down like a black cowl and holy winter send he nuncio to wale	1.05932
+<p>	<p>	0
+az országút megy mely a völgy szegélyez s egy hegy közé ékel szakadék által vág vezet ki a világ - egy nehéz kõ összeró zsúpfedeles õsi farmház állott	beside the high-road which line the valley run up through a cleft in the hill and so out into the world there stand an ancient farmhouse build of heavy stone and thatch	1.30061
+az idõ hív ki az a morgan aki épít - s már-már õ látszik gyõztes	the morgan who have build he play against time and nearly win	0.761538
+<p>	<p>	0
+bent a ház tûz melegít a kandalló ; a láng felett vasüst himbálózik ; s a szén közé rejtett fekete vassütõ a láng nyelv nyalogat	inside the house a fire be burning on the hearth ; an iron kettle hang over the blaze and a black iron oven hide in the coal which fell about the edge of the flame	1.72857
+a tûz élénk fény rávillant a faállvány sorakozó nagy markolatú lándzsa a fegyver mely itt pihen mióta az egyik morgan van száz esztendõ glendower csapat harcol a düh reszket iolo goch kova-puskás sereg látta	the brisk firelight glint on the tip of long-handled pike in rack upon the wall weapon unused in the hundred year since morgan clamour in glendowers' rank and tremble with rage at the flinty lines of iolo goch	1.29653
+<p>	<p>	0
+a sarok egy nagy láda áll széles rézpánt megmerül a fény ragyog felizzik	the wide brass binding of a great chest which stand in a corner suck in the light and glow resp1endently	1.67705
+irat rejtezik a láda pergamen és kemény cserzetlen kutyabõr rajta az írás angol latin van az õsi cumric nyelv : morgan született morgan házasodik morgant üt lovag morgant akaszt	paper there be in the chest and parchment and stiff untanned skin write in english and latin and the old cumric tongue : morgan be born morgan be married morgan become a knight morgan be hang	1.586
+a ház történelem szégyen és dicsõség pihen benne	here lay the history of the house shameful and glorious	1.26429
+a család azonban megfogyatkozik elég kevés van már az hogy a láda más okmány dob mint az egyszerû krónika : morgan született - és meghalt	but the family be few now and little enough likely to add record to the chest other than the simple chronicle : morgan be born-and die	1.95576
+<p>	<p>	0
+itt ül például robert apó : magas támlájú szék ül és mosolyog mered a tûz	there be old robert for instance sitting in he high-backed chair sitting and smile into the fire	1.36167
+mosoly tétovaság vegyül valami különös szenvedõ dac	he smile be perplexity and a strange passive defiance	1.5
+azt gondol róla az ember hogy ez a nevetés az élet kárhoztatható sors akar egy kicsi megszégyenít	he would have say he seek to make that fate which be responsible for he be a little ashamed of himself by smile at he	1.04557
+gyakran s komoly tûnõdik már a maga sors mely úgy vesz körül a nevetséges apró vereség mint nyomorék a gúnyolódó utcakölyök	often he wearily considered he existence ringed around with little defeat which mock he as street child torment a cripple	1.01137
+robert apó kivált azt furcsáll hogy belõle aki oly végeérhetetlen sok töpreng még csak jó gazdaember se lett soha	he be strange to old robert that he who know so much more than he neighbour who have ponder so endlessly should be not even a good farmer	0.681696
+néha már azt képzel : túl sok ért a dolog az hogy bármi is jól csinál	sometimes he imagine he understand too many thing ever to do anything well	0.899221
+<p>	<p>	0
+így kortyolgat robert apó tapasztalat megkeseredik seprû s belemosolyog a tûz	and so old robert sip the burned ale of he own experiment and smile into the fire	1.54091
+a feleség bizonyos suttog menteget mindenütt ezt tudta s a paraszt a föld nem robert hanem "a morgan" elõtt emel meg kalap	he wife would be whisper excuse for he he know and the labourer in the field removed he hat to morgan not to robert	1.23097
+<p>	<p>	0
+még gwenlianát elaggott édesanya aki itt ül mellette a tûz közel is borzong mintha a ház körül kószáló szél hang reszkettet meg - még õ se tart olyan teddide-teddoda	even he aged mother gwenliana here beside he shiver to the fire as though the very wind sound about the house call in the cold to he be not so judge incompetent	1.44283
+a kunyhó némi félelem s nagy tisztelet emleget	in the cottage there be a little fear of he and a great respect	1.2175
+akárhányszor csak kint ül a kert s halottidézõ ceremónia tart jó néhány hosszú gazdalegény lát ott pironkodik arc elé tartott kalap ahogy gwenliana mágia figyel	any day when he sit in the garden holding he necromantic court he might see some farm lad blush and hug he hat across he chest while he listen to gwenliana's magic	0.957644
+jó néhány eszik a jövõbelátás gyakorol nagy büszke	for many year now he have be practice the second sight and taking pride in he	0.837121
+s bár a család tudta hogy prófécia merõ találgatás s év múlta ravaszkodás se volt már olyan ötletes mégis tisztelet hallgat meg hódolat színlelt és elveszett holmi hollét kérdezget	and though the family know he prophecy to be whole guess who shrewdness grow less sharp with he year he listen to he with respect and simulated awe and ask of he the location of lose thing	1.14375
+amikor aztán egyik ködös mormolás után az olló nem talál meg a fészer padló kettõ léc alatt úgy mutat mintha tû tesz ott minden ; mert hisz ha nem tetszeleghet jósnõ szerep nem van sok töpörödött anyóka aki már csak a halál köszön	when after one of he mystic recitation the scissors be not discover under the second board of the shed floor he pretend to find them there anyway for have he lose the robe of augury there would have remain only a little wrinkle old woman soon to die	1.02778
+<p>	<p>	0
+színlelés tapsol az együgyû - nehéz sarc volt ez morgan asszony elv	this play of claque to a simpleton be a harsh tax on the conviction of mother morgan	1.15992
+a természet kell erõszak tesz hiszen nyilvánvaló az a fajta származik mely minden ostobaság ostor jön a világ	he outrage he nature for he be one who have apparently come into the world to be a scourge to all foolishness	1.18652
+az efféle hókuszpókusz ami nyilvánvaló se a vallás se a dolog valódi érték nincs köz szerinte egyszerû bolondéria volt	such matter as have so obviously no connection either with the church or with the price of thing be plainly nonsense	0.69672
+<p>	<p>	0
+robert apó olyan szép és olyan kitartó szeret a feleség hogy akár rossz is gondol felõle gondolat mégsem bánt érzelem	old robert have love he wife so well and so long that he could think sharp thing about he and the thought could not injure he affection	0.986667
+amikor az asszony ma délután hazajövet dühöng kezd egy pár cipõ ár amire mellesleg semmi szükség se volt azt állapít meg róla : olyan az élet mint egy csupa nagy esemény telezsúfol könyv	when he have come home this afternoon rage over the price of a pair of shoe he hadn't want anyway he have considered : "her life be like a book crowded with mighty event	1.37487
+valamely rettenetes megrázkódtatás csúcs jár meg mindennap örökkön a gomb van a szomszéd esküvõ körül robban fel	every day he rise to the peak of some tremendous climax which have to do with buttons or a neighbour wedding	0.9397
+azt hisz az igazi tragédia ész sem vesz majd a sok kis hangyaboly között	i think that when true tragedy come in upon he he will not see he over he range of ant-hill	0.635
+talán ez a szerencse - gondol majd pedig : "kíváncsi van hogyan mér össze a király halál az emse egyetlen malac kimúlás "	perhaps this be luck " he think and then wonder now how he would compare the kingbolt own death with the loss of one of the sow red pig "	2.148
+<p>	<p>	0
+morgan asszony nagyon is elfoglal a napi gond az hogy lázálom ostobaság zavar van	mother morgan be too busy with the day himself to be bother with the foolishness of abstraction	1.25217
+valaki csak gyakorlatias kell van a család különben elfúj a zsúptetõ a szél - s mi vár az ember az olyan álmodozó raj mint gwenliana robert s a fia henry?	some one in the family have to be practical or the thatch would blow away-and what could he expect of a pack of dreamer like robert and gwenliana and he son henry?	1.5414
+a férj szeret valami szánalom elegy megvet ami a gyámoltalanság és jóság szól	he love he husband with a queer mixture of pity and contempt born of he failing and he goodness	1.1026
+<p>	<p>	0
+a kis henryt a fia imád persze nem hisz el õ hogy halvány fogalom is van arról mi szolgál java van egészség ártalom	young henry he son he worship though of course he could not trust he to have the least idea of what be to he benefit or conducive to he health	0.98617
+morgan asszony azonban az egész család szeret félt tõle s igyekezik a kedv jár	and all of the family love mother morgan and fear he and get in he way	0.952311
+<p>	<p>	0
+eszik már adott õk s most megtisztogat a lámpa	he have feed them and trim the lamp	0.863218
+a reggeli is feltesz a tûz	breakfast be on the fire	1.28571
+foltoznivaló után kutat mintha nem foltoz meg nyomban minden amint elszakad	now he search about for something to mend as though he do not mend everything the moment he be tear	0.981818
+kotorászás közben megáll s vizslató néz henryt	in the midst of he search for busyness he pause and glance sharply at young henry	0.109756
+afféle éles aggódó pillantás amely azt mond : "egész biztos hogy elõbb-utóbb jól megfázik a padló "	he be the kind of harsh affectionate look which say "i wonder now if he be not in the way of catching cold there on the floor "	1.28276
+henry pedig riad gondolt arra mi is mulaszt el a délután tennivaló közül	and henry squirm wonder what thing he have neglect to do that afternoon	0.937857
+de a mama hirtelen egy ruha kap fel s porol indul ~~~ a fiú tehát megnyugodik	but immediately he catch up a cloth and go to dust and the boy be reassure	0.495
+<p>	<p>	0
+henry a könyök támaszkodik heverész s a tûz bámul : gondolat merül	he lay prop on one elbow and stare past the fire into he thought	0.969231
+a hosszú szürke délután titokzatos éjszaka süllyed s ez újra felébreszt azt az erõs vágyódás mely mag már a korábbi hónap elültet benne	the long grey afternoon piercing to this mysterious night have call up strong yearning in he the seed of which be plant month before	1.78909
+olyan vágy volt ez mely tárgy nem tud megnevez	he be a desire for a thing he could not name	1.46571
+talán ugyanaz az érez munkál benne ami a madár vándorcsoport terel s ami az állat ideges szippantgatják a szél a tél illat	perhaps the same force move he which collected the bird into explore party and make the animal nervously sniff upwind for the scent of winter	1.29642
+<p>	<p>	0
+az ifjú henry ez az éjszaka úgy érez : tizenöt fárasztó esztendõ él le anélkül hogy egyetlen jelentékeny tettet véghez van	young henry be conscious this night that he have live on for fifteen tedious year without accomplish any single thing of importance	1.09488
+ha az anya ismer fia érez azt mond : ~~~ - cseperedik a fiú !	and have he mother known he feeling he would have say "he be grow "	0.47069
+<p>	<p>	0
+s az apa ezt visszhangoz rá : ~~~ - úgy van ~~~ cseperedik a gyerkõc	and he father would have repeated after he "yes the boy be grow "	0.0291667
+- de egyik sem ért van mi ért ez a másik	but neither would have understand what the other mean	1.65484
+<p>	<p>	0
+henry ami az arc illet mindkettõ szülõ egyforma örökölt valami	henry if he considered he face draw from he parent almost equally	1.11263
+arccsont kiugrik kemény az áll erõs felsõ ajak keskeny és vékony akár az anya	he cheek bone be high and hard he chin firm he upper lip short and thin like he mother	1.40654
+de itt van az érzéki alsó ajak a finom metszésû orr s az álmodozó szem : robert apó vonás ez s tõle származik a vékony szálú göndör haj is amely fekete fürt bodorodik a fej	but there too be the sensual underlip and the fine nose and the eyes which look out on dream ; these be old robert's feature and he be the thick wiry hair coil like black spring against the head	1.18423
+de robert arc teljes határozatlanság ül míg henryén jókora határozottság	but though there be complete indecision in robert's face there be a great quantity of decision in henry if only he could find something about which to decide	0.985938
+<p>		0
+három ül most a tûzhely elõtt robert és gwenliana meg az ifjú henry a tekintet mintha áthatol a fal és testetlen lény tapad kísértet kutat az éjszaka	here be three before the fire robert and gwenliana and young henry who eyes look out beyond the wall and saw unbodied thing-look into the night for the ghost	1.94066
+<p>	<p>	0
+kísérteties éjszaka volt : éjidõ amikor foszforeszkáló szellem bolyong az út megy van egy római légió kísértet merül fel erõltetett menet halad hogy caerleon város oltalom ér mielõtt kitör a vihar	he be a preternatural night ; a time when he might meet corpse-candle glide along the road or come upon the ghost of a roman legion march at double quick to reach he shelter city of caerleon before the full storm break	1.31149
+s a hegy apró gyámoltalan állatka elhagyott borzlyuk keres menedék az éj elõl	and the little misshapen being of the hill would be searching out desert badger hole to cover them from the night	1.24416
+a szél pedig ott süvít a nyom a föld felett	the wind would go crying after them through the field	1.03247
+<p>	<p>	0
+a ház csend volt csak a tûz ropog és a nádtetõ susogtatta a szél	in the house he be quiet except for the snap fire-noise and for the swish sound of blow thatch	1.55577
+a kandalló hasábfa pattog és a tûzhely egy vékony lángnyelv - a tûz virág - nyalogat a fekete üst	a log cracked on the hearth and out of the crevice a thin blaze leap up and curl about the black kettle like a flower of flame	1.87125
+anya megpiszkál a tûz	now mother flurry to the fireplace	1.12632
+<p>	<p>	0
+- sose vigyáz a tûz robert	"robert he will never be pay attention to the fire	1.31299
+a te dolog hogy ügyel rá	he should be poke at he now and again "	0.135
+<p>	<p>	0
+mert anya így szokik ezt	such be he method	0.18
+megpiszkál a lobogó tûz hogy kihuny ~~~ s ha már elhamvad dühödt kotor meg a hasáb hadd lobban a láng	he poke a large fire to make he small and when he die he stir the ember violently to restore the flame	0.321429
+<p>	<p>	0
+az országút léptek elmosódó zaj hallatszik - hang de ez a hang a szél is van	a faint sound of footstep came along the high-road a sound that might have be the wind or those walking thing which can be see	1.16044
+<p>		0
+a léptek erõsödik majd megtorpan a kapu elõtt : félénk kopogtat az ajtó	the step grow loud then stopped in front of the door from whence came a timid knock	1.33143
+<p>	<p>	0
+- tetszik ! - kiált robert	"come ! ~~~ robert call	0.85
+halk nyílt az ajtó és lám egy görnyed ösztövér férfi állott a fekete éjszaka szem akár a pislákoló láng	the door open softly and there light against the black night stand a bent feeble man with eyes like weak flame	1.42542
+tétováz a küszöb aztán hirtelen belép a szoba és különös recsegõ hang ezt mond :	he pause on the threshold as though undecided but in a moment advanced into the room ask in a strange creak voice	1.12108
+- nem csoda ha nem ismer meg robert morgan !	"will he be knowing he i wonder robert morgan?	0.875
+hogy ismerhet meg hiszen oly soká van távol	will he be knowing he that have be out so long?"	0.617117
+- könyörög ejt a szó	he word be a plea	0.735714
+<p>	<p>	0
+robert a fonnyad arc fürkész	robert search the shrink face	2.288
+<p>	<p>	0
+- hogy megismer - kérdez		-0.3
+- nem hisz - de vár csak !		-0.3
+te van dafydd?	"know you?" he say	0.230769
+a mi kis dafyddünk a béresgyerek aki esztendõ ezelõtt tenger szállt?	"i do not think-wait ! -can he be dafydd? he little farm lad dafydd that go away to sea year past?"	1.19322
+<p>	<p>	0
+a bujdosó arc nagy megkönnyebbülés látszik	a look of complete relief came into the face of the wayfarer	1.49098
+	he might have be apply some delicate fearful test to robert morgan	-0.3
+	now he chuckle	-0.3
+<p>	<p>	0
+- persze hogy dafydd úgy bizony ; méghozzá gazdag és megfagy	"it's dafydd sure and rich-and cold "	0.871875
+- reménytelen szomorúság fejez be a mondat volt benne valami nyilalló fájdalom	he finished with a wistfulness like a recur pain	0.402439
+<p>	<p>	0
+dafydd úgy összeszárad mint egy szürkésfehér cserzik irha	dafydd be grey-white and toughen like a dry hide	1.56016
+az arcbõr feszes és vékony s úgy tûnik arckifejezés lassú tudatos erõfeszítés változtat	the skin of he face be stiff and thick so that he seem to change expression with slow conscious effort	1.55414
+<p>	<p>	0
+- fázik robert - folytat furcsa száraz hang	"i'm cold robert " he queer dry voice go on	1.18286
+- s nem hisz hogy valaha is felmelegszik	"i can seem ever to get warm again	1.23571
+de akárhogy is gazdag van a gazdagság vetekszik az aki pierre le grand nevez - s a két dolog úgy említ mintha azt remél : kiegyensúlyoz egymás	but anyway i'm rich "-as though he hope these two might balance along with he he call pierre le grand "	1.27305
+<p>	<p>	0
+az ifjú henry felugrik és azt kérdez :	young henry have rise and now he cry :	1.29032
+- de hát hol jár ember hol?	"where have he be to man	0.698571
+<p>	<p>	0
+- hol is?	"where?	0.3
+hát sehol másutt mint az indiákon ott van igen goavesnál és tortugánál - ott bizony - aztán jamaicában meg hispaniola szálas erdei bölényvadászat	why i've be out to the indies that's where i've be ; to goaves and to tortuga the turtle-and to jamaica and the thick woods of hispaniola for the hunting of cattle	1.02823
+megfordul én mindenfelé	i've be all there "	0.1875
+<p>	<p>	0
+- ül le már dafydd - szól közbe morganné	"you'll be sitting down dafydd " mother morgan interrupted	1.03636
+mintha sohase járt van távol úgy szólít meg	he spoke as though he have never be away	0.59697
+- mindjárt készít valami meleg innivaló	"i'll about get something warm to drink	0.719748
+nem lát dafydd hogy mereszt magára a szemét henry?	will he look how henry gobble he with he eyes dafydd?	0.293023
+mintha csak õ is az indiákra akar megy	like as not he'll be wanting to go to the indies too "	1.19688
+- s ez a szó morganné számára valami gyermekes képtelenség jelent	to he the word be a pleasant idiocy	1.02069
+<p>	<p>	0
+dafydd csend ül bár látszik visszafog mesélõ kedv	dafydd keep silence though he appear to be straining back at a desire to talk	0.615027
+morganné megfélemlít mintha még mindig kócos fejû béresgyerek van	mother morgan frighten he as he have when he be a towheaded farm boy	0.289286
+zavar robert apó is érez s úgy látszik talán anya is felfog mert amint a gõzölög csésze dafydd kéz nyom kimegy a szoba	old robert know he embarrassment and mother too seem to sense he for when he have put a steam cup in he hands he left the room	1.28763
+<p>	<p>	0
+a kiszáradt vén gwenliana a tûz elõtt ül gondolat messze kalandoz	wrinkle old gwenliana be in he seat before the fire he mind lose in the swim future	1.62033
+felhõs szemét a holnap fátyoloz	he cloud eyes be veiled with tomorrow	0.757143
+ködös kék tükör mögött mintha a világ kusza táj és esemény gyülekezik van : lélek kiröppen a szoba - a tiszta idõ a jövõ felé	behind he vague blue surface seem to crowd the mounting event and circumstance of the world ~~~ he be go out of the room-go into pure time and that the future	0.48071
+<p>	<p>	0
+az öreg robert megvár míg az ajtó becsukódik a feleség mögött aztán olyan mozdulat helyezkedik el ahogy egy kutya telepszik le	old robert watch the door close behind he wife then settle himself with turning as a dog settle	1.61472
+<p>	<p>	0
+- nos dafydd - bátorít a vendég s mosolyog bámul a tûz míg henry a föld térdel tisztelet bámul erre a halandó aki sors nagy messzeség ír	"now dafydd " he say and peer smile into the fire while henry kneel on the floor gaze with awe at this mortal who hold the very distance in he palm	1.41901
+<p>	<p>	0
+- hát robert a zöld õserdõ arról akar mesél a barna indián - aki ott él és róla aki pierre le grand nevez	"well robert about the green jungle i want to tell and the brown indians that live in he and about he he call pierre le grand	1.55929
+de valami kilobbant benne robert az a kicsiny pisla fény	but robert there's something go out of he like a little wink light	1.34716
+hányszor fekszik a hajó fedélzet éjszaka éjszaka s arra gondol csak arra hogyan mesél hetvenkedik én csak jön egy haza	i used to lie on the deck of ship at night and think and think how i'd talk arid boast when only i came home again-but it's more like a child i be come home to cry	1.341
+de lám sír jön haza mint a gyermek	can he understand that robert?	0.288889
+meg tud ezt ért robert?	can he understand that at all?"	0.195
+érte-e mindezt? - s kíváncsi elõrehajol	he be leaning forward eagerly	0.196154
+<p>	<p>	0
+- hát elmond	"i'll tell he	1.02273
+hosszú páncélos hajó száll ami gálya nevez s csak pisztoly van nála meg hosszú késik ami a dzsungel ösvény irtás használ	he take the tall plate ship he call a galleon and he with only pistol and the long knife he have for cutting trail in the jungle	1.59841
+huszonnégy volta - csak huszonnégy nyomorult de rettenetes dolog mûvelt robert ez a hosszú kés	twenty-four of he there be-only twenty-four and ragged-but robert he do horrid thing with those same long knife	1.03762
+nincs az semmi jó hogy ilyesmi csinál az ember	it's no good for a man that be a farm lad to be doing such thing and then thinking about them	0.492308
+pompás kapitány volt de a hüvelyk akaszt fel mielõtt legyilkol van	there be a fine captain-and he hang he up by he thumb before he kill he	0.514286
+nem tud miért tesz ; én is segített s nem tud miért	i do know why he do he ; i help and i do know why	1.18141
+azt mond némely hogy átkozott pápista de hát pierre le grand is az volt azt hisz	some say he be a damned papist but then so be pierre le grand i think	1.47529
+	<p>	0
+van aki a tenger dob csillog-villog a vért ahogy elmerül - a méltóságos spanyol katona száj nagy bugyborékok jön föl	"some he pushed into the sea with he breast plate shine and shimmer as he go down-grand spanish soldier and bubble coming out of he mouth	0.799536
+áttetszõ ott a víz nagyon	he can see deep into the water there "	1.67727
+- dafydd elhallgatott s a padló bámul	dafydd cease and look at the floor	1.39397
+	<p>	0
+- nem akar felizgat robert de tud ez a dolog mintha a mell a borda mögött van él eltemet és kapar próbál kitör belõle	"you see i do want to be hurt he with these thing robert but it's like something alive hide in he chest under he rib and it's biting and scratch to get out of he	1.15579
+persze meggazdagodik a kalandozás de ez gyakran nem elég ~~~ pedig talán még sir edwardnál a bátya is gazdagabb van	i'm rich of the venture sure but most time that do seem enough i'm rich maybe than he own brother sir edward "	0.334356
+<p>	<p>	0
+robert ajak mosoly nyílt	robert be smile with tighten lip	2.01818
+a szem oda-odatéved a kandalló térdeplõ fiú	now and then he eyes wander to the boy where he kneel on the hearth	1.67368
+<p>		0
+henry feszült figyel és sóvár fal a szó	henry be taut with attention gluttonously feed on the word	1.14545
+robert kerül dafydd tekintet s így szól :	when robert spoke he avoid dafydd's eyes	0.675
+	<p>	0
+- a lelkiismeret nyom te - mond	"your soul burden he " he say	0.65
+- jó van ha beszél a lelkész	"you'd good have a talk with the curate the morning-but about what i do know "	0.515217
+<p>	<p>	0
+- nem nem a lélek nincs itt szó - szakít félbe dafydd	"no no ; it's not he soul at all " dafydd go on quickly	0.992308
+- az egy hogy a lélek röppen el az ember indiában s valami száraz fonnyad érez hagy maga mögött	"that soul leak out of a man the very first thing in the indies and leave he with a dry shrink feeling where he be	1.25
+nem szó sincs a lélek ; méreg kering benne a vér és az agy	it's not he soul at all ; it's the poison that's in he in he blood and in he brain	1.78261
+s ez emészt el én mint egy aszott narancs robert	robert it's shrivel he like an old orange	1.25714
+a csúszómászó az apró repkedõ bogár mely éjszaka a tûz jön s a nagy sápad virág - csupa méreg az mind	the crawl thing there and the litt1e flying beast that come to he fire of nights and the great pale flower all poisonous	1.41172
+szörnyû dolog tesz az ember	he do horrible thing to a man	0.8
+még itt is a pompás tûz elõtt is mintha apró hideg tû lök a vér az ér	he blood be like cold needle sliding in he vein the moment and the fine fire before he	1.37778
+a dzsungel nyirkos lehelet van ez is meg mind a többi	all this-all-be because of the dank breathing of the jungle	1.34318
+alszik se pihen se él se tud ott ez a lehelet ûz és borzongat mindenütt	he can sleep in he nor lie in he nor live in he at all but he breathe on he and withers he	0.618103
+	<p>	0
+s a rézbõrû indián - néz csak néz ! - feltûr az ujjas de robert undorodik int õ hogy takar el azt a beteg fehér szörnyûség ami a kar gennyed	"and the brown indians-why look ! " ~~~ he roll back he sleeve and robert in disgust motion he to cover the sick white horror which fester on he arm	0.611265
+<p>	<p>	0
+- csak egy kis nyílkarcolás volt - nem is vesz ész de idõ elõtte fog megöl azt hisz	"it be only a little scratch of an arrow-he could hardly see he ; but it'll be killing he before year i guess	0.679654
+de más betegség is van robert	there's other thing in he robert	1.12114
+az ember is mérgez errõl még a tengerész dal is beszél	even the humans be poisonous and a song the sailor sing about that "	0.976667
+<p>	<p>	0
+most az ifjú henry vágott közbe izgatott :	now young henry start up excitedly	1.09714
+	<p>	0
+- az indián - kiált - az indián és a nyíl mesél !	"but the indians " he cry ; "those indians and he arrows	0.698381
+	tell he about them !	-0.3
+harcol-e sokat?	do he fight much?	0.3
+lát	how do he look?"	-0.45
+<p>	<p>	0
+- harcolnak? - kérdez dafydd	"fight?" say dafydd	0.933333
+- örökké harcol maga szeret a harc	"yes he fight always ; fight for a love that's in he	0.540517
+ha nem háborúskodik a spanyol hát egymás gyilkol	when he do not be fight the man of spain they're at killing amongst himself	0.657143
+hajlékony mint a kígyó gyors csendes barna akár a menyét s füst válik mint az ördög mielõtt az ember megcélozhat õk	lithe as snake he be and quick and quiet and brown as ferret ; the very devil for get out of sight before a man might get a shot at them	1.17867
+	<p>	0
+derék erõs nép ez csak két dolog fél - a kutya és a rabszolgaság	"but they're a brave strong people with the fear in them for only two thing-dog and slavery "	1.75577
+- dafydd elmerült a mese	dafydd be immersed in he tale	1.24286
+- nem is képzel mi csinál az az ember aki csetepaté fog el	"why boy can he think what he would be doing to a man that might get himself take in a skirmish?	0.751368
+hosszú dzsungeltüske ver ki a homlok a láb ujj s minden tüske fej gyapjúszerû tollgomolyag kerül	he stick he full of long jungle thorn from he head to he toe and on the thick end of every thorn a ball of fluff like wool	0.778192
+akkor a szegény fogoly ott áll a meztelen vad között - s láng lobbant a toll	then the poor captive man stand in a circle of naked savage while he set light to the fluff	1.47723
+s azt az indián aki nem énekel miközben úgy ég ott mint a fáklya elátkoz és gyáva nevez	and that indian that do not be sing while he burn there like a torch be cursed and call a coward	1.53781
+el tud-e ilyesmi képzel fehér emberrõl?	now can he imagine any white man doing that?	0.582857
+	<p>	0
+de a kutya aztán fél mert a spanyol hatalmas véreb vadászik rá mikor rabszolga gyûjt a bánya ; a szolgaság pedig nem tûr	"but dog he fear because the spaniards hunt them with huge mastiff when they're at slave gathering for the mine ; and slavery be horrible to them	1.23636
+hogy test a test láncol száll le a nedves föld gyomor s esztendõ esztendõ követ míg csak a szárazbetegség el nem visz õk - gyûlöl ezt és inkább lobogó fáklya énekel és láng közt pusztul el	to go chain body to body into the wet earth year on the crown of year until he die of the damp ague-rather would he be sing under the burning thorn and dye in a flame "	1.06344
+<p>	<p>	0
+dafydd elhallgatott s vékony kéz a tûzhely tart hogy szinte odaért a hasáb	he pause and stretch he thin hands into the fireplace until he be nearly touching the blaze	0.800595
+most hogy nem beszélt kihuny szem a láng	the light which have come into he eyes as he talk die out again	0.816667
+<p>	<p>	0
+- ó robert fárad van nagyon fárad - sóhajt - de valami még el akar mond mielõtt alszik tér	"oh i'm tire robert-so very tire " he sigh "but there's one thing i want to tell he before i sleep	0.575342
+talán megkönnyebbül tõle ha elmesél van hogy kibeszél maga és elfelejt erre az egy éjszaka	maybe the telling will ease he and maybe i can speak he out and then forget about he for the one night	1.22789
+vissza kell megy arra az átkozott helyre	i musth go back to the damned place	1.9046
+soha többé nem élhet távol a dzsungel : forró lehelet megbabonáz	i can never stay away from the jungle any more because he hot breath be on he	1.51182
+reszket és fázik itt ahol születik s elpusztul egy hónap alatt	here where i be born i shiver and freeze ~~~ a month would find he dead	0.659091
+ez a völgy ahol játszik felnõ dolgoz odadob egy szennyes forró õserdõ	this valley where i play and grow and worked have cast he out for a foul hot thing	1.33584
+tisztító hideg elûz én innen	he clean himself of he with the cold	0.74
+<p>	<p>	0
+- és most ad fekhelyet és vastag takaró hogy a kevéske vér melegít ~~~ alszik akar ~~~ reggel pedig elmegy	"now will he be give he a place to sleep with thick cover to keep he poor blood moving ; and in the morning i'll be off again "	0.279318
+- elnémult s kínlódás tükröz az arc	he stopped and he face flex with pain	0.665
+- hogy szeret a tél azelõtt !	"i used to love the winter so "	1.4125
+<p>	<p>	0
+a szoba robert vezet ki kéz fog a kar ~~~ aztán visszajön és megint odaül a tûz	old robert help he from the room with a hand under he arm then came and sit again by the fire	0.87381
+a fiú néz aki mozdulatlan lefekszik a föld	he look at the boy who lay unmoving on the floor	1.60833
+<p>	<p>	0
+kisvártatva nagyon gyengéd megkérdez tõle : ~~~ - mire gondol most fiam?	"what be he thinking about now son?" he ask very softly after a time	0.136607
+<p>		0
+és henry visszakap tekintet a láng mögötti világ	and henry draw he gaze back from the land beyond the blaze	1.25714
+<p>	<p>	0
+- arra gondol hogy nemsokára én is el kell megy apa	"i'm thinking i'll be wanting to go soon father "	1.11086
+<p>	<p>	0
+- tud henry	"i know henry	0.99
+teljes hosszú eszik figyel már hogyan nõ benne ez a gondolat akár az erõs fa ~~~ - london van guinea van jamaica	the whole of this long year i've see he grow in he like a strong tree or guinea or jamaica	0.607143
+az újdonság kínzó szenvedély ! ~~~ együtt jár az hogy az ember tizenöt éves van és erõs	he come of be fifteen and strong with the passion for new thing on he	0.454651
+egykor én is úgy lát hogy egyre kicsi és kicsi ez a völgy már szinte megfojt	once i saw the valley grow small and small too until finally he smother he a little i think	1.3472
+de nem fél fia a kés a méreg és az indiánoktól?	but be he afraid of the knife son and the poison and the indians?	1.79696
+ez sem riaszt vissza?	do not these thing put fear on you?"	0.126316
+<p>	<p>	0
+- n-e-e-m - válaszol elnyújtott henry	"no-o-o " henry say slowly	0.669565
+<p>	<p>	0
+- persze hogy nem hogyan is riaszthat	"of course not-and how could they?	0.708571
+a szó nincs hatás rá ezt tud	the word have no meaning to he at all	0.958696
+de dafydd szomorúság ûzöttség s nyomorult beteg test - ez sem riaszt?	but the sadness of dafydd and the hurt of he and he poor sick body be he afraid of those?	1.16206
+akar-e majd mázsás szív jár-kel a világban?	do he want to go about the world weigh down with such a heart?"	0.572368
+<p>	<p>	0
+az ifjú henry hosszú eltûnõdik	young henry considered long	1.476
+<p>	<p>	0
+- én nem van ilyen - mond végül	"i would not be like that " he say at last	1.204
+- gyakran jár majd haza hogy megmegy a vér	"i would be coming back very often for he blood sake "	0.822857
+<p>	<p>	0
+az apa elszánt mosolyog tovább	he father go on smile valiantly	1.8
+<p>	<p>	0
+- mikor indul henry?	"when will he be off henry?	0.816667
+magányos van itt nélküle	he will be lonely here without he "	1.40455
+<p>	<p>	0
+- mikor? ~~~ most hamarosan amint csak van - válaszol henry mintha õ van az idõsebb s robert a kisgyerek	"why i'll go now as soon as i may " say henry ; and he seem that he be the old and robert a little boy	0.579386
+<p>	<p>	0
+- két dolog tesz meg a kedv mielõtt elmegy henry	"henry will he do two thing for he before he go?	0.837762
+ma éjjel gondol az álmatlan éjszaka mely én jut miatta ~~~ gondol arra hogy üres van a nap nélküle	will he be thinking tonight of the long sleeplessness i'll have because of he and of how lose he days will be	0.083125
+s az az óra is képzel el mikor anya kétség esik : mi van a fehérnemû s hogy áll a vallás	and will he remember the hours he mother will fret about he underclothing and the state of he religion	0.830435
+ez van hát az egy henry ~~~ a kettõ pedig : megy el holnap a szirttetõ az agg merlinhez mond el õ hogy el akar hagy s hallgat meg õ	that's the first thing henry ; but second will he go up to old merlin on the crag-top tomorrow and tell he of he going and listen to he words?	0.421463
+se te se én nem van soha olyan bölcs mint õ	he be wise than he or i may ever be	1.0404
+az õ különös varázslat talán segítség van	there be a kind of magic he practice which may be a help to he	0.941667
+megtesz ezt fiam?	will he do these two thing son?"	0.09375
+<p>	<p>	0
+henry nagyon elszomorodik	henry have become very sad	1.03696
+<p>	<p>	0
+- szívesen marad édesapa de hisz tud .	"i would like to stay he father but he know	1.27188
+	"yes boy "	-0.3
+<p>		0
+- tud fia - bólint robert	robert nod	0.97
+- az az én bánat hogy nagyon is tud	"it be he sorrow that i do know	1.264
+meg se haragudhat s nem is tilthat meg hogy elmegy mert megért	i can be angry nor forbid he going because i understand	0.26087
+bárcsak meggátolhat és elnáspángolhat azt hisz segített rajta	i wish i might prevent he and whip he thinking that i help he	0.596599
+de megy alszik henry tûnõdik és tûnõdik ha kialszik a fény és körülölel a sötétség	but go to bed henry and think and think when the light be out and the dark in around he "	1.98315
+<p>	<p>	0
+a fiú elmegy és robert apó álmodozik ül a szék	old robert sit dream in he chair after the boy have go	1.25263
+<p>	<p>	0
+- miért is van szükség gyerek az olyan ember mint én - méláz el	"why do man like he want sons?" he wonder	0.75
+- talán azért mert szegény megaláz lélek azt remél hogy ez a friss envérükbõl származó emberke véghez azt ami õ se erõ se ész se bátorság nem volt	"it musth be because he hope in he poor beat soul that these new man who be he blood will do the thing he be not strong enough nor wise enough nor brave enough to do	0.996638
+mintha új esély nyer az élet egy marék arany a szerencse asztal mikor oda már minden vagyon	he be rather like another chance with life ; like a new bag of coin at a table of luck after he fortune be go	1.26053
+a fiú talán véghez azt ami én visz van végbe ha lett van elég bátorság az eltûnt esztendõ	perhaps the boy be doing what i might have done have i be brave enough year past	1.26308
+igen én megfojtott a völgy úgy hisz és örül hogy az én fia érez magában annyi erõ hogy átlép a hegy és bejár a világ	yes the valley have smother he i think and i be glad this boy of mine find he in he power to vault the mountain and stride about the world	1.39901
+s mégis nagyon magányos van itt - nélküle	but he will be-so very lonely here without he "	0.932381
+<p>	<p>	0
+2	ii	0.15
+<p>		0
+másnap reggel robert apó késõ jön be a rózsakert	old robert came in from he rose garden late the next morning and stand in the room where he wife be sweeping	1.2061
+megáll a szoba ahol a feleség takarít ~~~ morganné rosszalló néz robert sáros kéz	he eyed the good soil on he hands with disapproval	0.140625
+<p>	<p>	0
+- itt akar hagy mi anya - mond robert zavart	"he'll be wanting to go now mother " robert say nervously	1.2
+<p>	<p>	0
+- ki akar elmegy s hová?	"who will be wanting to go and where?"	0.977143
+- mogorva merül el a takarítás ; a sark padlórepedés serény tapogató seper ott vadászik a por nyom s apró porfelhõ kavar	he be brusque and busy with he sweeping ; the quick inquisitive broom hound dust from the corner and floor crack and drive he in little puff to the open	1.40191
+<p>	<p>	0
+- ki?		-0.3
+hát henry	"why henry	1.26667
+õ akar vág az indiáknak	he'll be wanting to go to the indies now "	0.59
+<p>	<p>	0
+az asszony abbahagy a munka és rábámul	he stopped he work to stare at he	0.233333
+<p>		0
+- indiának !	"the indies !	1.02273
+de robert !	but robert !	2.52
+ez képtelenség ! - tesz hozzá s a seprû még gyorsabban forog a kéz	oh nonsense ! " he finished and the broom swing more rapidly in he hands	1.27222
+<p>	<p>	0
+- már réges-régen észre hogy ez motoszkál benne - folytat robert	"i've see he for long and long grow in he " robert go on	0.475
+- aztán jön dafydd a mese	"then dafydd came with he tales	0.642857
+henry tegnap este megmond én hogy el kell megy	henry tell he last night that he musth go "	2.06571
+<p>	<p>	0
+- ugyan hisz gyerek még - csattant fel az anya	"he's only a little boy " mother morgan snap	0.891892
+- nem megy sehova !	"he can be going to the indies "	0.6125
+<p>	<p>	0
+- amikor dafydd elmegy sóvárog ég a gyerek szem s ezt az sem csillapít le ha elmegy az indiákra	"when dafydd set out a little time ago there be a longing in the child eyes that will never be satisfy at all not even if he do go to the indies	0.911538
+nem vesz ész anya hogy bámészkodik a hegy túlra? ~~~ - elvágyik innét	have he notice mother how he eyes look away beyond the mountain at something he wants?"	0.332927
+<p>	<p>	0
+- és mégsem megy el !	"but he may not go !	1.13839
+nem megy !	he may not ! "	1.73333
+<p>	<p>	0
+- ah ez nincs értelem anya	"ah there be no use in he mother	0.674026
+a fia nagy szakadék választ el tõle de semmi sincs ami én elválaszt tõle	a great gulf lie between he son and he but none at all between he and he son	0.615789
+ha nem ismer az õ kínzó vágyakozás oly jól megtilt õ hogy kaland indul ~~~ de akkor harag a szív szökik el mert azt a vágy mely benne él hogy ittmaradjon õ nem tud megért	if i do not know the lean hunger of he so well i might forbid he venture and he would run away with anger in he heart for he can understand the hunger that's in he for he stay	0.30974
+az eredmény tehát mindenképp ugyanaz	he would come to the same thing anyway "	1.3
+- robert érv gyûjtött	robert gather conviction	0.986842
+	<p>	0
+- roppant különbség van közte és a fia között s ezt egyre jó észre ahogy serdül	"there's a cruel difference between he son and he ~~~ i've see he in the year of he grow	0.217857
+õ például egyik fazék hideg zabkása a másik szalad hogy ujj belemárt mert õszintén hisz az hogy mindegyik a megálmodik íz talál meg - én azonban egyetlen fedõ sem emel fel mert tud : mindegyik hideg a zabkása	for whereas he run about stick he finger into pot after pot of cold porridge grandly confident that each one will prove the pottage of he dream i may not open any kettle for i believe all porridge to be cold	1.29286
+ezért én hatalmas tál bíborszín zabkása képzel maga elé ami sárkánytej áztat s olyan édes cukroz hogy ilyen már csak a képzelet létezik	and so-i imagine great dish of purple porridge drench with dragon milk sugared with a sweetness only to be envision	0.533137
+henry próba vet alá az álom anya én pedig - úr bocsá' - mindig fél ettõl	he test he dream mother and i-god help he ! -am afraid to "	1.02979
+<p>	<p>	0
+az asszony bõszít a beszéd	he be becoming impatient with he talk	0.682609
+<p>	<p>	0
+- robert - kiált már-már dühös - akárhányszor csak baljóslat szükség van bánat kerülget mi szó búj elõle	"robert " he cry almost angrily "in any time where there's bode on he or need or sorrow he hide in word	0.755612
+most pedig kötelesség van !	here be a duty to he !	0.676471
+túl fiatal ez a fiú az	this boy be too young	2.3
+a tenger túl szörnyû veszedelem les rá a tél pedig itt a nyak	there be horrible place across the sea and the winter come in at he	1.12714
+egész biztos belehal a köhögés ami a tél hoz rá	he would be sure to find he death in a cough that came to he from the winter	1.38846
+hisz jól tud ha átnedvesedik a cipõ rögtön megbetegszik	he know how the dampness on he foot set he sick	0.521053
+nem hagyhat el ezt a farm ~~~ még londonig sem megy - akkor se ha a szem mely mesél elsenyved üreg	he musth not leave this farm not even to london i say-if these eyes he talk about starve in he head	0.0961538
+<p>	<p>	0
+- te sem tudhat miféle ember elegyedik szó miféle ostobaság erkölcstelenség hall tõle	"how could he possibly know what kind of people he would be taking up with and he telling he nonsense and wickedness	0.782239
+ismer a világ teli van gonoszság	i know the evil that's in the world	1.575
+hát nem errõl prédikál majd minden vasárnap a lelkész? ~~~ - a "csapdákról és kelepcékrõl"?	do the curate mention he nearly every sabbath and snare he call them do he see?	0.313793
+mint ahogy ki is vet az	and so he be too	0.661538
+te meg itt áll és elégedett beszél bíbor zabkása pedig dönt kell	and here he stand content to talk foolishness about purple porridge when he should be doing something or other	1.23718
+meg kell tilt !	he musth forbid he "	0.807692
+<p>	<p>	0
+de robert türelmetlen letorkol	but robert answer he impatiently	1.48929
+<p>	<p>	0
+- te henry csak kisgyerek aki rá kell parancsol hogy mond el az esti imádság és vesz kabát ha kimegy a mezõ ~~~ te nem érez még ahogy én micsoda acél kovácsol	"to he he be only a little boy who musth be make to say he prayer of nights and to wear a coat into the field he have not feel the polished steel of he as i have	0.584557
+igen te ez a fürkész és feszült arc csak egy önfejû gyerek múló makacsság jelent	yes to he that quick hard set of he chin be only the passing stubbornness of a headstrong child	1.18825
+de én jól tud és minden különösebb öröm nélkül ki is jelenthet te ez a mi fia nagy ember van egykor - mert hát nem túlzott fogékony : egy idõ csak egyetlen vágy tud követ	but i do know ; and i say to he without pleasure that this son of he will be a great man because-well-because he be not very intelligent ~~~ he can see only one desire at a time	0.446715
+azt mond próba vet alá az álom de minden álom megöl majd vágy engesztelhetetlen nyíl	i say he test he dream ; he will murder every dream with the implacable arrows of he will	1.42077
+ez a fiú el fog ér minden törekszik cél ; mert a más ember gondolat s más érv fel sem tud fog csak a saját	this boy will win to every goal of he aim ; for he can realize no think no reason but he own	1.03678
+s én elszomorít az õ eljövendõ nagyság egy bizonyos dolog miatt ami merlin beszélt egy	and i be sorry for he coming greatness because of a thing merlin once spoke of	1.38281
+csak egyetlen pillantás kell vet anya henry fog gránit sövény és arra ahogy összeszorít arcizom kidudorodik	he musth look at the granite jaws of he mother and the trick he have of making he cheek muscle stand out with clench them "	1.44731
+<p>	<p>	0
+- nem megy el - mond az asszony határozott s szoros összezár ajak	"he musth not go " he say firmly and pinch he lip tightly together	1.15714
+<p>	<p>	0
+- lát anya - folytat robert - ez te is henryre hasonlít ~~~ te sem nyugszik bele senki gondolat csak a maga	"you see mother " robert go on "you be something like henry himself for he never admit the existence of any idea save he own	0.123837
+de én nem tilt meg õ hogy megy ~~~ hisz nem akar arra kényszerít hogy egyedül lopózik ki a sötét kabát alatt kenyér és sajt a szív az igazságtalanság sebzett érez	but i will not forbid he going because i musth not have he steal out into the lonely dark with bread and cheese under he coat and a hurt feeling of injustice in he heart	0.709346
+elenged : hadd megy	i permit he to go	0.835714
+mi sok segít õ ha õ is akar	more i help he to go if he wish he	0.228571
+ha pedig rossz ítél van meg a fia csúszik jön vissza fél reménykedik hogy senki sem fog gyávaság fölhánytorgat	and then if i have misjudge he son he will come sneaking back with the fearful hope that no one may mention he cowardice "	1.28065
+<p>		0
+morganné felkiált		-0.3
+<p>	<p>	0
+- bolondság ! ~~~ - s újra munka merül	mother morgan say "nonsense ! " and go back to he work	0.35
+hitetlenség próbál ezt a felhõ eloszlat	he would dissolve this thing by disbelieve he	0.694286
+ó százféle esztelenség tört le már benne ez a kétkedés !	oh the thousand thing he chain to limbo with he incredulity !	1.02447
+jó néhány esztendõ már a józan ész nehéz gyalogság tör le robert vad gondolat ; egyszerû csak bevet csapat s legyõz õ	for many year he have beat robert's wild thought with a heavy phalanx of common sense ; he troop simply charge in and overwhelm he	0.644072
+férj pedig mindig fárad vonul vissza s jó idõ révedõ mosoly mögé süllyed	always he retire wearily and sit smile for a time	0.426386
+robert maga és más is hisz a bölcsesség gyõzelem	he be sure to come back to sanity in this case as in other	0.563415
+<p>	<p>	0
+robert erõs barna kéz feltör a talaj az egyik rózsabokor gyökér	robert be working the soil about the root of a rose bush with he strong brown hands	1.97222
+az ujj emel ki a fekete termõföld s gyengéd perget vissza a hely	he finger lift the black loam and then pat he gently back into place	1.14016
+a bokor szürke törzs idõnként ellágyuló szeretet simogat meg	now and again he stroke the grey trunk of the bush with the touch of great love	1.73774
+mintha álom hajtogat van össze a szirom : simogat az ág hogy meggyõzõdik róla : biztonság van-e	he be as though he smooth the cover over one about to sleep and touched he arm to be reassure of he safety	0.912829
+<p>	<p>	0
+derült nap volt ez ; a tél meghátrál egy lépés s visszaad fogoly - a gyenge hideg napfény - a világ	the day be light for winter have inched back a bit and return he hostage to the world-a small cold sun	1.37966
+az ifjú henry is idejön s a fal mellett megáll egy tölgy a lekopaszt levél hullajt fa mely lesoványodott a szél dajkálás	young henry came and stand near an elm by the wall a tree draggle and leafless and gaunt with nurse the wind	1.30257
+<p>	<p>	0
+- gondolkozik az amire kértelek? - szól hozzá robert csendes	"you have be thinking as i ask you?" ~~~ robert spoke quietly	0.114474
+<p>	<p>	0
+henry meglepõdik	henry start	1.16364
+nem tudta hogy ez a férfi aki a föld mintegy imádkozik térdepel észre õ s hogy õ is azért jön hogy észre	he do not know that the man kneel as though in adoration of the earth have notice he ; and yet he have come here to be notice	1.16951
+<p>	<p>	0
+- igen apa - felel	"yes father " he say	0.76
+- hogy is tesz van mást?	"how could i help be thinking?"	0.195
+<p>	<p>	0
+- s eltérít szándék a gondolataid?	"and have he bound he here?	0.208696
+itt maradsz?	will he be staying?"	0.15
+<p>	<p>	0
+- nem apa nem marad	"no father i may not stay "	1.6875
+- az édesapa szomorúság elszomorít õ is	he have be make sad with he father sadness	0.291176
+méltatlan és kicsi érez maga az hogy õ okoz ezt a szomorúság de az utazás vágy még mindig mar a szív	he feel mean and shoddy to be the cause of he but the hunger to be going still gnaw in he heart	1.09418
+<p>	<p>	0
+- felsétál akkor a szirt hogy merlinnel beszél - könyörög robert - jól figyel majd a szavaira?	"will he be walking up to speak with merlin on the crag-top then?" ~~~ robert plead ~~~ "will he listen to he word with great care?"	0.042
+<p>	<p>	0
+- tüstént felmegy	"i shall go now "	0.257143
+<p>	<p>	0
+- henry délidõ múlt már s hosszú az út	"but henry the day be half done with and the track be long	1.04516
+vár meg a holnap	be wait until the morrow "	0.728571
+<p>	<p>	0
+- holnap már indul kell apa	"i musth be away the morrow father "	1.06584
+<p>	<p>	0
+a vén robert kéz lassú hanyatlik le a föld s ott pihen félig nyit a rózsabokor gyökér a fekete termõtalaj	old robert's hands slip away slowly to the ground and lay half-open on the black soil at the root of the rose bush	1.56502
+<p>	<p>	0
+3	1 1 2 iii	-0.45
+<p>		0
+az ifjú henry gyors letér az országút egy széles csapás kaptat fölfelé mely meredek vezet a crag-csúcs és aztán tovább a zordon hegy túl	young henry turn soon from the road to climb up a broad trail which soar to crag-top and then over the wild mountain	1.615
+innen alul is lát van a kanyar egészen addig míg a nagy szakadék vesz	he winding could be see from below until he disappear into the great deft	0.678947
+az ösvény magasabb csúcs tanyáz merlin ; merlin aki a tanyasi fiú kinevet s meg is kövez amikor kiruccanás indul az ösvény - ha történetes ártalmatlan tart	and on the topmost point of the trail dwell merlin ; merlin who the farm boy might have jeer at and stoned on he infrequent journey down the path have he believe he harmless	1.45319
+de merlint az apró legenda egész uszály vesz körül	but merlin be one who collected about himself a swarm of little legend	1.38837
+úgy hisz hogy tylwyth teg õ engedelmeskedik az õ parancs száguldozik zajtalan szárnycsapás a levegõ	he be establish that the tylwyth teg obey he and carry he message through the air on soundless wing	1.59787
+a gyerek bizonyos pettyes menyét való kapcsolat suttog amely aztán megbosszul õ ha egy szükség van rá	child whisper of he acquaintance with certain mottle weasel which might carry on he vengeance have he need of such	1.09845
+aztán meg vörös fülû kutya tartott	then too he keep a red-eared dog	1.12381
+szörnyû dolog ez merlin pedig nem olyan ember hogy céltábla van van oltalmazó varázsige nem tudó gyerek tréfa	these be terrific thing and merlin one not to be trifle with by child who do not know all the sign for protect himself	1.39559
+<p>	<p>	0
+merlin nagyszerû költõ volt egykoron - mesél az öreg - s még nagyszerûbb is van van	once merlin have be a fine poet the old people say and might have be a great	0.966538
+bizonyság eldalol a mezõ sirám van a lándzsa-dal	he would softly sing "the sorrow of plaith" or "the spear song " to prove he	0.490476
+nem is egy nyer el az eisteddfodi nagydíj s egy bárd is megválaszt van ha a rhys-ház való jelölt nem lép fel ellene	several time he have take the chief prise of the eisteddfod and would have be choose first bard if an aspirant of the house of rhys have not enter against he	0.791489
+de aztán anélkül hogy az ok tud ( pedig merlin fiatal ember volt ) dal a crag-csúcs kõház zár el és tart szigorú õrizet míg õ megöregedik és egyre vénebb lett - s az is aki egykor a dal énekelt elfeled ha meg nem hal	then without known cause and merlin a young man too he have shut up he song in the stone house on crag top and keep he a strict prisoner there while he grow old and old-and those who have sing he song forget them or die	0.948706
+<p>	<p>	0
+a crag-csúcs épül ház kerek volt mint egy alacsony szürke torony ; ablak a völgy is a hegy is van lát	the crag-top house be round like a low grey tower with window let sight on the valley and on the mountain	2.19446
+az a szóbeszéd járta hogy évszázad ezelõtt egy szorongat óriás épít s a szûz rejteget itt ~~~ más azt erõsítget hogy a hastingsi csata után harald király menekül ide hogy élet maradék fél szem örök fürkészés tölt a völgy és a hegy fölött : jön-e vajon a normann	some say that he be build by a beleaguer giant century ago to keep he virgin hide while he be in that state ; and other that kingbolt harold have flee there after hastings to live out he life ever watch and peer with he one eye down the valley and over the mountain for the coming of normans	0.595356
+<p>	<p>	0
+merlin öreg volt nagyon		-0.3
+a haj és hosszú egyenes szakáll mely olyan nyájas volt mint a tavaszi bárányfelhõ megõszül	merlin be old now ; he hair and long straight beard be white and soft as spring cloud	1.20272
+tiszta messziröptû tekintet egy csillag figyelõ õsi druida pap tesz hasonlatos	there be much about he of an ancient druid priest with clear far-seeing eyes which watch the star	0.709365
+<p>	<p>	0
+a kapaszkodó henry körül összeszûkül az ösvény	the pathway narrow on young henry as he climb	1.40132
+	<p>	0
+belsõ part kõfal bárd vágott az égbolt s az út megy a kezdetleges elmosódott kép egy hajdani kegyetlen istenség sziklatemplom idéz ahol tán emberszabású majom van a hivõk	he inward side be a stone wall cutting into the heaven knife-like and the misshapen vague image along the way make he seem the rock temple of some old crude god who worshipers be ape	1.01372
+<p>	<p>	0
+alant még nõ a fû néhány bokor is s egy-két jókora göcsörtös fa de fentebb már a szikla magány minden élõlény kihalt	there have be grass at first and bush and a few brave twist tree ; but upward all living thing die of the rock loneliness	1.07636
+amott távol a farmház táplálkozó hangya búj egymás és úgy látszik mintha a völgy maga roskad zsugorodik össze	far below the farmhouse huddle like feed bug and the valley shrink and draw into himself	1.2818
+<p>	<p>	0
+most egy hegy zárkózott az ösvény másik oldal s széles szakadék tárt az ég felé	now a mountain closed in on the other side of the trail leave only a broad chasm to the sky	2.33068
+éles metsz szél zúg alá s végigsüvít a völgy	a fierce steady wind pour out of the blue heaven and shrill toward the valley	0.981081
+még feljebb az elszórt szikla - guggoló õriz az ösvény - nagy feketébbek ijesztõbb van	upward the strew rock be large and more black and dreadful-crouch guardian thing of the path	1.02945
+<p>	<p>	0
+henry elgondolkozik baktat	henry climb tirelessly on	1.02391
+mi is tanácsolhat mi is adhat õ a vén merlin?	what could old merlin have to tell he or perhaps to give him?	0.740049
+valami fõzet ami cserzett s edz tesz a bõr a nyílvesszõ ellen?	a lotion to make he skin tough and proof against arrows?	0.268085
+van bûverõt?	some charm?	0.272727
+vers az ördög számtalan kis szolga ellen?	word to protect he from the devil many little servants?	1.33333
+merlin beszél fog vele és õ figyel rá ; s ami berlin mond kigyógyíthat az ifjú henryt sóvárog s ittmarasztalhatja cambriában mindörökre	but merlin be to talk and he to listen ; and what merlin say might cure young henry of he yearning might keep he here in cambria for always	1.16696
+ám ez mégsem lehetséges mert van furcsa erõ névtelen különös szellem mely kísért s hív a rejtelmes óperencián túl	that could not be for there be outland force nameless foreign ghost calling to he and beckon from across the mysterious sea	0.578125
+<p>	<p>	0
+nem rang cím vágyik ~~~ el sem képzel azt a valaki aki õ van ha sóvárog követ ; csak valami lobogás ellenállhatatlan vágy perzsel hogy nekivág a messziség az esthajnalcsillag nyom	there be no desire in he for a state or a condition no picture in he mind of the thing to be when he have follow he longing ; but only a burning and a will overpowering to journey outward and outward after the earliest rise star	0.384902
+<p>	<p>	0
+az út most megtört egy tömör szikla teteje mely félkör alakú volt mint egy süveg karima ; domborulat csúcs pedig merlin alacsony kerek ház emelkedett szabálytalan durva szikla összeró kúpos teteje akár egy gyertyakoppantó	the path break on a top of solid stone semispherical like the crown of a hat ; and on the peak of he rise be the low round house of merlin all fitted of irregular rough rock and a conical roof on he like a candle snuffer	1.35933
+<p>	<p>	0
+az öregember az ajtó jön elé mielõtt kopogtat van	the old man meet he at the door before he could knock	1.65649
+<p>	<p>	0
+- henry morgan van úr s el akar innen megy az indiákra	"i'm young henry morgan sir and i'm going outward from here to the indies "	1.10035
+<p>	<p>	0
+- valóban te van az?	"indeed and be you?	0.3
+betér hozzá s beszélget errõl	will he come in and talk to he about it?"	1.07637
+- tiszta és mély volt a hang andalító mint a tavaszi kert zümmögõ friss szellõ	the voice be clear and low and lovely as a young wind croon in a spring-time orchard	1.03154
+a dal zene zsong benne a szerszám munkálkodó ember csendes dal ; és felhang alig hall - van tán csak így képzel - a gyengéd pendít hárfahúr elhaló trilla is	there be the music of sing in he the quiet sing of a man working with tool ; and underneath half-hear or completely imagine there ring the seeming of harp string lightly touched and left to thrill	1.09362
+<p>	<p>	0
+az egyszerû szoba vastag fekete burkolat borít s körös-körül fal aggat hárfa és dárdahegy : kicsiny walesi hárfa és a brit nagy bronzlándzsa a csiszolatlan kõ fordítva	the single room be thick carpet in black and on the wall be hang harp and spear-head harp and spear-head all the way around ; small welsh harp and the great bronze leaf spear of the britons and these against the unfinished stone	1.59779
+alatta a sokszemû ablak ahonnan három völgy és a hegy hatalmas család lát ; s még lejjebb egyetlen pad húzódott a fal megy körbe a szoba	below these be the all-seeing window wherefrom he might look out on three valley and a mighty family of mountain ; and lower still a single bench circle around the room against the wall	1.63462
+a közép asztal telis-tele üt-kopott könyv mellette egy vasfekete görög három láb álló sárgaréz szénserpenyõ	there be a table in the center loaded with tatter book and beside he a copper brazier set on a greek tripod of black iron	1.2346
+<p>	<p>	0
+a megterem kutya rámordul henryre amikor belép s a fiú fél húzódott vissza mert hisz van-e rettenetesebb látvány - a kénköves pokol is - egy vörös fülû kutyánál?	the great hound nuzzle henry as he enter so that he draw away in fright for be there anything under the blue cup so deadly as the merest notice of a red-eared dog?	0.793182
+<p>	<p>	0
+- tehát az indiákra mész	"you be going to the indies	1.27143
+ül ide fiú	sit here boy	1.73333
+lát !	see !	1.3
+innen most odalát az otthoni völgy mert avalon nem ereszt köré köd	he can watch he home valley now so that he go not flying off avalon "	1.44839
+- hang a hárfa megremeg s gyenge visszhang zümmög vissza rá	the harp catch up he tone and hem an answer faint resonance	0.793878
+<p>	<p>	0
+- atya parancsol rá hogy jön ide mond el útiterv s hallgat szó	"my father say i be to come here and tell he of he going and listen to he speech	1.42941
+atya azt hisz hogy a te szó itthon tarthat én	he father think he speech may keep he here "	0.564394
+<p>	<p>	0
+- nekivág az indiáknak - ismétel merlin	"going to the indies " merlin repeated	1.41591
+- mielõtt elmegy miért nem látogat el elisabethhez s miért nem tesz õ nagy ígéret hogy megdobogtat a szív s elállít a lélegzet ; hadd gondol arra : elmegy de csodálatos holmi hoz majd õ ha visszajön	"will he be seeing elizabeth before he go and making grand promise to flutter the heart of he and strangle the breath in he after you're go from thinking of the thing he will bring back to her?"	0.752045
+<p>	<p>	0
+henry mély elpirul	henry blush deeply	1.8
+<p>		0
+- ki mesél te hogy csak rá is néz arra a kis patkányra? - kiált fel	"who tell he i think at all of the little rat?" he cry	0.658804
+- ki mer azt mond hogy törõdik vele?	"who be he say at all that i care for her?"	0.926667
+<p>	<p>	0
+- ó a szél csacsog valami - mond merlin - aztán meg a beszédes arc s a pirulás is elárul	"oh the wind whisper something " say merlin ; "and then there be some word of he in he talk cheek and he bluster just now	1.18429
+		0.3
